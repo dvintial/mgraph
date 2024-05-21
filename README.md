@@ -1,2 +1,2 @@
 # mgraph
-diverse Microsoft Graph scripts. TEST
+diverse Microsoft Graph scripts. TEST2
