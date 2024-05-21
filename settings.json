@@ -1,0 +1,11 @@
+{
+    "clientId": "54398f08-1667-4a19-9318-770f36e52bb5",
+    "clientCertificate": "CN=PowerShell App-Only",
+    "tenantId": "d0ae735b-a57c-432a-aa2d-892814aa457c",
+    "authTenant": "common",
+    "graphUserScopes": [
+      "user.read",
+      "mail.read",
+      "mail.send"
+    ]
+}
